@@ -1,3 +1,5 @@
+#EGGSTOASTBACON :: https://github.com/eggstoastbacon
+
 [Reflection.Assembly]::LoadWithPartialName("System.Drawing")
 $loadPageDelay = "3"
 $packageDelay = "1"
